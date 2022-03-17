@@ -14,6 +14,3 @@ def quadratic(a, b, c):
         return 'the equation has no roots'
     else:
         return f'x = {-b / (2 * a)}'
-
-
-print(quadratic(3, 7, -10))
